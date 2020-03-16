@@ -1,9 +1,11 @@
 ---
 sidebar: auto
-next: /config/
+next: /index/
 ---
 
 # Guide
 
 
+## Intro
+## Intro
 ## Intro

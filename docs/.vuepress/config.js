@@ -7,7 +7,7 @@ module.exports = {
   },
   themeConfig: {
       nav: [
-        { text: '首页', link: '/timeLine/' },
+        { text: '首页', link: '/index/index.md' },
         { text: '链接',
           items: [
               {text:'GitHub',link: 'https://github.com/jlpan' },
