@@ -6,7 +6,8 @@ set -e
 # 生成静态文件
 npm run build
 
-# 进入生成的文件夹
-cd docs/.vuepress/dist
+# 删除原有文件
+rm -rf /data/wwwroot/default/*
 
-mv ./* /data/wwwroot/default
+# 移入新构建的文件
+mv docs/.vuepress/dist/* /data/wwwroot/default
