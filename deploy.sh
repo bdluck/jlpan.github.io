@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+# 拉取代码
+git pull
+
 # 确保脚本抛出遇到的错误
 set -e
 
