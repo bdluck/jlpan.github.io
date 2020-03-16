@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'jlpan',
+  title: '@jlpan.top',
   serviceWorker: true,
   markdown: {
     // 显示代码行号
@@ -7,7 +7,7 @@ module.exports = {
   },
   themeConfig: {
       nav: [
-        { text: '首页', link: '/index/index.md' },
+        { text: '首页', link: '/' },
         { text: '链接',
           items: [
               {text:'GitHub',link: 'https://github.com/jlpan' },
