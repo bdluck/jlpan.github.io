@@ -2,5 +2,9 @@
 		"scripts": {
 				"dev": "vuepress dev docs",
 				"build": "vuepress build docs"
+		},
+		"devDependencies": {
+				"vue": "^2.6.11",
+				"vuepress": "^1.5.2"
 		}
 }

@@ -3,6 +3,9 @@
 # 拉取代码
 git pull
 
+# 安装vuepress
+npm install -D vuepress
+
 # 确保脚本抛出遇到的错误
 set -e
 
