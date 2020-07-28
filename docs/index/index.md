@@ -7,7 +7,7 @@ prev: /
 ## dateFormat
 
 - Type: `string`
-- Default: `'ddd MMM DD YYYY'`
+- Default: `YYYY-MM-DD`
 
 The [date](./front-matter.md#date) will be displayed in the layout with this format.
 You can find all available formats [here](https://github.com/iamkun/dayjs/blob/dev/docs/en/API-reference.md#displaying)
